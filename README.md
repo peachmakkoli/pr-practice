@@ -8,7 +8,8 @@ Hello!! I added some fun facts about black holes because they're really cool. :)
 
 ## Person B:
 
-Person B should modify content here.
+Everyone should have (at least) one dog.
+TODO: someone should get Lee a dog.
 
 ## Person C:
 
