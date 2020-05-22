@@ -8,7 +8,7 @@ Person A should modify content here.
 
 ## Person B:
 
-Person B should modify content here.
+Everyone should have (at least) one dog.
 
 ## Person C:
 
