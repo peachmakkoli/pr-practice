@@ -9,6 +9,7 @@ Person A should modify content here.
 ## Person B:
 
 Everyone should have (at least) one dog.
+TODO: someone should get Lee a dog.
 
 ## Person C:
 
